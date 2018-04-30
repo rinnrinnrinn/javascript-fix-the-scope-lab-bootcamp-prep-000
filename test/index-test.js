@@ -36,6 +36,4 @@ describe('Fix the Scope', function() {
     })
   })
   
-  console.log(window.theFunk)
-
 })
