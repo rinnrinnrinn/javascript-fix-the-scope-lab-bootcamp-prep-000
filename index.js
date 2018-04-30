@@ -27,4 +27,4 @@ funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 var theFunk = funkyFunction()
 
-thefunk();
+theFunk();
